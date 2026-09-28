@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 武林秘籍"
+  short_description: "用修仙六境提炼演示观点，统一页面设计，让 AI 辅助完成清晰好用的 PPT"
+  default_prompt: "请使用 $ppt-wulin 帮我把现有材料整理成观点清晰、风格统一的演示文稿，并根据后续编辑需求选择制作方式。"
